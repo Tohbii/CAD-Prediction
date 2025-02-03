@@ -1,21 +1,10 @@
-# Streamlit framework
 streamlit==1.30.0
-
-# Machine Learning and Deep Learning
 tensorflow==2.12.0
 numpy==1.24.3
 pandas==2.0.3
 scikit-learn==1.2.2
-
-# Data Visualization (Optional but useful)
 matplotlib==3.7.1
 seaborn==0.12.2
-
-# File Handling and Performance
 joblib==1.3.2
-
-# Web Requests (Optional, if fetching external data)
 requests==2.31.0
-
-# Compatibility Fixes (for Streamlit & TensorFlow)
 protobuf==4.23.4
