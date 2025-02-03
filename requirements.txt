@@ -1,5 +1,5 @@
-streamlit==1.10.0
-tensorflow==2.8.0
+pip install streamlit==1.10.0
+pip install tensorflow==2.8.0
 numpy
 conda create --name cad_env python=3.8
 conda activate cad_env
